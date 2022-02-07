@@ -4,7 +4,8 @@
 
 
 **Without Memoization**
-```
+
+```javascript
 function square(n) {
     let result = 0;
     for (let i=1; i <= n; i++) {
